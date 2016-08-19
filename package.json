@@ -1,0 +1,14 @@
+{
+  "name": "coding-exercises",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha \"./JavaScript/src/**/*.spec.js\""
+  },
+  "author": "Stone C. Lasley",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "jasmine-core": "^2.4.1",
+    "mocha": "^3.0.2"
+  }
+}
